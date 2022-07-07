@@ -1,0 +1,74 @@
+#card1 {
+    position: relative;
+    margin-top: 2.5%;
+    left: 22%;
+    border-radius: 0%;
+}
+
+#card2 {
+    margin-top: -16.3%;
+    left: 40%;
+    border-radius: 0%;
+}
+
+#card3 {
+    margin-top: -16.33%;
+    left: 58%;
+    border-radius: 0%;
+}
+
+#titleCard1 {
+    text-align: center;
+    font-size: large;
+}
+
+#titleCard2 {
+    text-align: center;
+    font-size: large;
+}
+
+#titleCard3 {
+    text-align: center;
+    font-size: large;
+}
+
+#footer1 {
+    color: gray;
+}
+
+#footer2 {
+    color: gray;
+}
+
+#footer3 {
+    color: gray;
+}
+
+#discount1 {
+    text-align: center;
+    color: black;
+}
+
+#discount2 {
+    text-align: center;
+    color: black;
+}
+
+#discount3 {
+    text-align: center;
+    color: black;
+}
+
+#ddiscount1 {
+    color: black;
+}
+
+#ddiscount2 {
+    color: black;
+}
+
+#ddiscount3 {
+    color: black;
+}
+
+
